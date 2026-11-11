@@ -1,2 +1,13 @@
-# todo-app
-A lightweight to-do application for organizing daily tasks efficiently.
+# Todo App
+
+A simple to-do list application.
+
+## Features
+
+- Easy to use
+- Beginner friendly
+- Responsive design
+
+## Status
+
+🚧 Work in Progress
